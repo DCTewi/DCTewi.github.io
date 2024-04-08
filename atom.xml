@@ -6,7 +6,7 @@
   <link href="https://blog.dctewi.com/atom.xml" rel="self"/>
   
   <link href="https://blog.dctewi.com/"/>
-  <updated>2024-01-27T09:07:49.272Z</updated>
+  <updated>2024-04-08T16:04:46.798Z</updated>
   <id>https://blog.dctewi.com/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>全自建tailscale以及云游戏全流程小结</title>
+    <link href="https://blog.dctewi.com/2024/04/summary-tailscale-allthrough/"/>
+    <id>https://blog.dctewi.com/2024/04/summary-tailscale-allthrough/</id>
+    <published>2024-04-09T14:40:52.000Z</published>
+    <updated>2024-04-08T16:04:46.798Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;手头的设备越来越多了，加上还有很多需要合并的VPS。偶然发现还有tailscale这种好东西，遂折腾之。体验了小一个月，还是挺好用的，简单总结一下从全自主部署到各种子业务的折腾流程。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="折腾小结" scheme="https://blog.dctewi.com/categories/%E6%8A%98%E8%85%BE%E5%B0%8F%E7%BB%93/"/>
+    
+    
+    <category term="折腾" scheme="https://blog.dctewi.com/tags/%E6%8A%98%E8%85%BE/"/>
+    
+    <category term="tailscale" scheme="https://blog.dctewi.com/tags/tailscale/"/>
+    
+    <category term="headscale" scheme="https://blog.dctewi.com/tags/headscale/"/>
+    
+    <category term="网络" scheme="https://blog.dctewi.com/tags/%E7%BD%91%E7%BB%9C/"/>
+    
+    <category term="远程桌面" scheme="https://blog.dctewi.com/tags/%E8%BF%9C%E7%A8%8B%E6%A1%8C%E9%9D%A2/"/>
+    
+  </entry>
   
   <entry>
     <title>Hexo迁移小结</title>
@@ -456,29 +483,6 @@
     <category term="算法" scheme="https://blog.dctewi.com/tags/%E7%AE%97%E6%B3%95/"/>
     
     <category term="KMP" scheme="https://blog.dctewi.com/tags/kmp/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>【数据结构】线段树基础小结</title>
-    <link href="https://blog.dctewi.com/2019/02/segment-tree-base/"/>
-    <id>https://blog.dctewi.com/2019/02/segment-tree-base/</id>
-    <published>2019-02-11T15:02:23.000Z</published>
-    <updated>2024-01-27T09:07:49.275Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;学习两种线段树后的总结。&lt;br&gt;  可能并不适合完全不了解线段树的人入门？但是可能会对稍微知道线段树的人有一些帮助。&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="旧站迁移" scheme="https://blog.dctewi.com/categories/%E6%97%A7%E7%AB%99%E8%BF%81%E7%A7%BB/"/>
-    
-    
-    <category term="旧文归档" scheme="https://blog.dctewi.com/tags/%E6%97%A7%E6%96%87%E5%BD%92%E6%A1%A3/"/>
-    
-    <category term="数据结构" scheme="https://blog.dctewi.com/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
-    
-    <category term="线段树" scheme="https://blog.dctewi.com/tags/%E7%BA%BF%E6%AE%B5%E6%A0%91/"/>
     
   </entry>
   

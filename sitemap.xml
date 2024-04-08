@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.dctewi.com/2024/04/summary-tailscale-allthrough/</loc>
+    
+    <lastmod>2024-04-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.dctewi.com/friends</loc>
     
     <lastmod>2024-01-27</lastmod>
@@ -20,7 +29,7 @@
   </url>
   
   <url>
-    <loc>https://blog.dctewi.com/about</loc>
+    <loc>https://blog.dctewi.com/archive</loc>
     
     <lastmod>2024-01-27</lastmod>
     
@@ -29,7 +38,7 @@
   </url>
   
   <url>
-    <loc>https://blog.dctewi.com/archive</loc>
+    <loc>https://blog.dctewi.com/about</loc>
     
     <lastmod>2024-01-27</lastmod>
     
@@ -65,7 +74,7 @@
   </url>
   
   <url>
-    <loc>https://blog.dctewi.com/2019/08/vimrc/</loc>
+    <loc>https://blog.dctewi.com/2020/02/unityevent-vs-csharpevent/</loc>
     
     <lastmod>2024-01-27</lastmod>
     
@@ -83,7 +92,7 @@
   </url>
   
   <url>
-    <loc>https://blog.dctewi.com/2020/02/unityevent-vs-csharpevent/</loc>
+    <loc>https://blog.dctewi.com/2019/08/vimrc/</loc>
     
     <lastmod>2024-01-27</lastmod>
     
@@ -155,7 +164,7 @@
   </url>
   
   <url>
-    <loc>https://blog.dctewi.com/2019/02/segment-tree-base/</loc>
+    <loc>https://blog.dctewi.com/2018/04/respawned-dc/</loc>
     
     <lastmod>2024-01-27</lastmod>
     
@@ -164,7 +173,7 @@
   </url>
   
   <url>
-    <loc>https://blog.dctewi.com/2018/04/respawned-dc/</loc>
+    <loc>https://blog.dctewi.com/2019/02/segment-tree-base/</loc>
     
     <lastmod>2024-01-27</lastmod>
     
@@ -191,15 +200,6 @@
   </url>
   
   <url>
-    <loc>https://blog.dctewi.com/2020/03/gridea-enchant/</loc>
-    
-    <lastmod>2024-01-27</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.dctewi.com/2019/02/kmp/</loc>
     
     <lastmod>2024-01-27</lastmod>
@@ -210,6 +210,15 @@
   
   <url>
     <loc>https://blog.dctewi.com/2020/09/my-unity-csharp-code-standard/</loc>
+    
+    <lastmod>2024-01-27</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.dctewi.com/2020/03/gridea-enchant/</loc>
     
     <lastmod>2024-01-27</lastmod>
     
@@ -254,7 +263,7 @@
   </url>
   
   <url>
-    <loc>https://blog.dctewi.com/2020/03/cycle-detection/</loc>
+    <loc>https://blog.dctewi.com/2018/04/dc-is-gonna-study/</loc>
     
     <lastmod>2024-01-27</lastmod>
     
@@ -263,7 +272,7 @@
   </url>
   
   <url>
-    <loc>https://blog.dctewi.com/2018/04/dc-is-gonna-study/</loc>
+    <loc>https://blog.dctewi.com/2020/03/cycle-detection/</loc>
     
     <lastmod>2024-01-27</lastmod>
     
@@ -319,7 +328,7 @@
 
   <url>
     <loc>https://blog.dctewi.com/</loc>
-    <lastmod>2024-01-27</lastmod>
+    <lastmod>2024-04-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
