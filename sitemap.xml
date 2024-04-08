@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>https://blog.dctewi.com/archive</loc>
+    <loc>https://blog.dctewi.com/about</loc>
     
     <lastmod>2024-01-27</lastmod>
     
@@ -38,7 +38,7 @@
   </url>
   
   <url>
-    <loc>https://blog.dctewi.com/about</loc>
+    <loc>https://blog.dctewi.com/archive</loc>
     
     <lastmod>2024-01-27</lastmod>
     
@@ -65,7 +65,7 @@
   </url>
   
   <url>
-    <loc>https://blog.dctewi.com/2020/02/unity-new-input-system/</loc>
+    <loc>https://blog.dctewi.com/2020/02/unityevent-vs-csharpevent/</loc>
     
     <lastmod>2024-01-27</lastmod>
     
@@ -74,7 +74,7 @@
   </url>
   
   <url>
-    <loc>https://blog.dctewi.com/2020/02/unityevent-vs-csharpevent/</loc>
+    <loc>https://blog.dctewi.com/2019/08/vimrc/</loc>
     
     <lastmod>2024-01-27</lastmod>
     
@@ -92,7 +92,7 @@
   </url>
   
   <url>
-    <loc>https://blog.dctewi.com/2019/08/vimrc/</loc>
+    <loc>https://blog.dctewi.com/2020/02/unity-new-input-system/</loc>
     
     <lastmod>2024-01-27</lastmod>
     
@@ -146,15 +146,6 @@
   </url>
   
   <url>
-    <loc>https://blog.dctewi.com/2018/06/record-201806/</loc>
-    
-    <lastmod>2024-01-27</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.dctewi.com/2018/09/record-201808/</loc>
     
     <lastmod>2024-01-27</lastmod>
@@ -165,6 +156,15 @@
   
   <url>
     <loc>https://blog.dctewi.com/2018/04/respawned-dc/</loc>
+    
+    <lastmod>2024-01-27</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.dctewi.com/2018/06/record-201806/</loc>
     
     <lastmod>2024-01-27</lastmod>
     
@@ -218,7 +218,7 @@
   </url>
   
   <url>
-    <loc>https://blog.dctewi.com/2020/03/gridea-enchant/</loc>
+    <loc>https://blog.dctewi.com/2019/02/number-theory-base/</loc>
     
     <lastmod>2024-01-27</lastmod>
     
@@ -227,7 +227,7 @@
   </url>
   
   <url>
-    <loc>https://blog.dctewi.com/2019/02/number-theory-base/</loc>
+    <loc>https://blog.dctewi.com/2020/03/gridea-enchant/</loc>
     
     <lastmod>2024-01-27</lastmod>
     
@@ -263,7 +263,7 @@
   </url>
   
   <url>
-    <loc>https://blog.dctewi.com/2018/04/dc-is-gonna-study/</loc>
+    <loc>https://blog.dctewi.com/2020/03/cycle-detection/</loc>
     
     <lastmod>2024-01-27</lastmod>
     
@@ -272,7 +272,7 @@
   </url>
   
   <url>
-    <loc>https://blog.dctewi.com/2020/03/cycle-detection/</loc>
+    <loc>https://blog.dctewi.com/2018/04/dc-is-gonna-study/</loc>
     
     <lastmod>2024-01-27</lastmod>
     
