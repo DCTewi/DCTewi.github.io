@@ -6,7 +6,7 @@
   <link href="https://blog.dctewi.com/atom.xml" rel="self"/>
   
   <link href="https://blog.dctewi.com/"/>
-  <updated>2024-04-08T16:04:46.798Z</updated>
+  <updated>2024-04-09T13:41:33.294Z</updated>
   <id>https://blog.dctewi.com/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>全自建tailscale以及云游戏全流程小结</title>
+    <title>部署自有tailscale小结</title>
     <link href="https://blog.dctewi.com/2024/04/summary-tailscale-allthrough/"/>
     <id>https://blog.dctewi.com/2024/04/summary-tailscale-allthrough/</id>
     <published>2024-04-09T14:40:52.000Z</published>
-    <updated>2024-04-08T16:04:46.798Z</updated>
+    <updated>2024-04-09T13:41:33.294Z</updated>
     
     
     <summary type="html">&lt;p&gt;手头的设备越来越多了，加上还有很多需要合并的VPS。偶然发现还有tailscale这种好东西，遂折腾之。体验了小一个月，还是挺好用的，简单总结一下从全自主部署到各种子业务的折腾流程。&lt;/p&gt;</summary>
