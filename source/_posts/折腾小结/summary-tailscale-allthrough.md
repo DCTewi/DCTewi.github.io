@@ -1,5 +1,5 @@
 ---
-title: 全自建tailscale以及云游戏全流程小结
+title: 部署自有tailscale小结
 date: 2024-04-09 22:40:52
 coverWidth: 1280
 coverHeight: 720
