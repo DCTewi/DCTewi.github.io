@@ -150,11 +150,28 @@ date: 2024-01-26 01:35:04
         "link": "https://blog.hicosor.top/",
         "img": "http://blog.hicosor.top/favicon.ico",
         "title": "365云栈"
+    },
+    {
+        "description": "见证者，为见证而来。铭记者，因铭记而生。",
+        "link": "https://lukelzlz.top/",
+        "img": "https://cdn.lukelzlz.top/IMG_1255.png",
+        "title": "lukelzlz"
     }
 ]
 {% endlinks %}
 
 迁移到Hexo之后下掉了一部分彻底找不到的站点，如果有误删请联系我！
+
+## 本站信息
+
+```json
+{
+    "description": "一个蒟蒻的博客",
+    "link": "https://blog.dctewi.com/",
+    "img": "https://blog.dctewi.com/images/avatar.png",
+    "title": "冻葱Tewi"
+}
+```
 
 <script src="https://cdn.staticfile.org/jquery/1.10.2/jquery.min.js"></script>
 <script>

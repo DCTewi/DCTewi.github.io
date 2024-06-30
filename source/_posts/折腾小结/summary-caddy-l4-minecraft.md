@@ -144,7 +144,7 @@ journalctl -u caddy
 也可以通过以下windows指令检查SRV解析情况：
 
 ```powershell
-nsloopup.exe -q=srv _minecraft._tcp.mc.yourdomain.com
+nslookup.exe -q=srv _minecraft._tcp.mc.yourdomain.com
 ```
 
 到此就大功告成了！可喜可贺，可喜可贺。
