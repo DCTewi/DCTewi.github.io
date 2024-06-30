@@ -1,5 +1,5 @@
 ---
-title: 部署自有tailscale小结
+title: Tailscale虚拟内网部署小结
 date: 2024-04-09 22:40:52
 coverWidth: 1280
 coverHeight: 720
