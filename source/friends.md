@@ -150,12 +150,6 @@ date: 2024-01-26 01:35:04
         "link": "https://blog.hicosor.top/",
         "img": "http://blog.hicosor.top/favicon.ico",
         "title": "365云栈"
-    },
-    {
-        "description": "见证者，为见证而来。铭记者，因铭记而生。",
-        "link": "https://lukelzlz.top/",
-        "img": "https://cdn.lukelzlz.top/IMG_1255.png",
-        "title": "lukelzlz"
     }
 ]
 {% endlinks %}
