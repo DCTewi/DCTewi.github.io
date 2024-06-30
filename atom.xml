@@ -6,7 +6,7 @@
   <link href="https://blog.dctewi.com/atom.xml" rel="self"/>
   
   <link href="https://blog.dctewi.com/"/>
-  <updated>2024-06-30T07:33:09.218Z</updated>
+  <updated>2024-06-30T07:46:05.879Z</updated>
   <id>https://blog.dctewi.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://blog.dctewi.com/2024/06/summary-caddy-l4-minecraft/"/>
     <id>https://blog.dctewi.com/2024/06/summary-caddy-l4-minecraft/</id>
     <published>2024-06-30T07:24:17.000Z</published>
-    <updated>2024-06-30T07:33:09.218Z</updated>
+    <updated>2024-06-30T07:46:05.879Z</updated>
     
     
     <summary type="html">&lt;p&gt;接上文，我搭建了一个tailscale虚拟内网，把自己的各种设备在一个虚拟网段中组织了起来。于是，通过一个拥有外网IP的节点，就可以把自己内网的Minecraft服务器转发到外网，算是一个内网穿透的新选择。&lt;/p&gt;</summary>

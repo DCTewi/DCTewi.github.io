@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.dctewi.com/friends</loc>
+    
+    <lastmod>2024-06-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.dctewi.com/2024/06/summary-caddy-l4-minecraft/</loc>
     
     <lastmod>2024-06-30</lastmod>
@@ -14,15 +23,6 @@
     <loc>https://blog.dctewi.com/2024/04/summary-tailscale-allthrough/</loc>
     
     <lastmod>2024-06-30</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.dctewi.com/friends</loc>
-    
-    <lastmod>2024-01-27</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -119,7 +119,7 @@
   </url>
   
   <url>
-    <loc>https://blog.dctewi.com/2018/04/record-201804/</loc>
+    <loc>https://blog.dctewi.com/2018/08/quick-exp/</loc>
     
     <lastmod>2024-01-27</lastmod>
     
@@ -128,7 +128,7 @@
   </url>
   
   <url>
-    <loc>https://blog.dctewi.com/2018/08/quick-exp/</loc>
+    <loc>https://blog.dctewi.com/2018/04/record-201804/</loc>
     
     <lastmod>2024-01-27</lastmod>
     
@@ -254,7 +254,7 @@
   </url>
   
   <url>
-    <loc>https://blog.dctewi.com/2019/06/calculus-a2/</loc>
+    <loc>https://blog.dctewi.com/2020/03/cantor-basic/</loc>
     
     <lastmod>2024-01-27</lastmod>
     
@@ -263,7 +263,7 @@
   </url>
   
   <url>
-    <loc>https://blog.dctewi.com/2020/03/cantor-basic/</loc>
+    <loc>https://blog.dctewi.com/2019/06/calculus-a2/</loc>
     
     <lastmod>2024-01-27</lastmod>
     
