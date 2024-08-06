@@ -105,9 +105,9 @@ deploy:
   repo: https://github.com/DCTewi/dctewi.github.io
   branch: hexo
   message: '[update] hexo updated at {{ now(''yyyy-MM-dd HH:mm:ss'') }}'
-- type: git
-  repo: https://gitee.com/dctewi/dctewi
-  branch: hexo-mirror
+# - type: git
+#   repo: https://gitee.com/dctewi/dctewi
+#   branch: hexo-mirror
 
 # hexo-generator-feed
 feed:
