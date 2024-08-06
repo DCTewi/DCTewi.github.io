@@ -32,17 +32,17 @@
 <link rel="stylesheet" href="../../../lib/mdui_043tiny/mdui.css">
 
 
-<link rel="stylesheet" href="../../../lib/iconfont/iconfont.css?v=1719735466227">
+<link rel="stylesheet" href="../../../lib/iconfont/iconfont.css?v=1722953146893">
 
     <link rel="stylesheet" href="//at.alicdn.com/t/c/font_4425465_bp309wfw9r.css">
 
-<link rel="stylesheet" href="../../../css/style.css?v=1719735466227">
+<link rel="stylesheet" href="../../../css/style.css?v=1722953146893">
 
 
 
 
     
-        <link rel="stylesheet" href="../../../custom.css?v=1719735466227">
+        <link rel="stylesheet" href="../../../custom.css?v=1722953146893">
     
 
 
@@ -52,7 +52,7 @@
 <script src="../../../lib/lax.min.js" async></script>
 
 
-<script async src="../../../js/app.js?v=1719735466227"></script>
+<script async src="../../../js/app.js?v=1722953146893"></script>
 
  
 
@@ -68,7 +68,7 @@
 
 
 <link rel="stylesheet"  href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/styles/atom-one-dark.min.css">
-<meta name="generator" content="Hexo 7.2.0"><link rel="alternate" href="atom.xml" title="冻葱Tewi" type="application/atom+xml">
+<meta name="generator" content="Hexo 7.3.0"><link rel="alternate" href="atom.xml" title="冻葱Tewi" type="application/atom+xml">
 </head><body class="nexmoe mdui-drawer-body-left"><div id="nexmoe-background"><div class="nexmoe-bg" style="background-image: url(/images/bg.jpg)"></div><div class="mdui-appbar mdui-shadow-0"><div class="mdui-toolbar"><a class="mdui-btn mdui-btn-icon mdui-ripple" mdui-drawer="{target: &#039;#drawer&#039;, swipe: true}" title="menu"><i class="mdui-icon nexmoefont icon-menu"></i></a><div class="mdui-toolbar-spacer"></div><a class="mdui-btn mdui-btn-icon" href="../../../index.html" title="冻葱Tewi"><img src="/images/avatar.png" alt="冻葱Tewi"></a></div></div></div><div id="nexmoe-header"><div class="nexmoe-drawer mdui-drawer" id="drawer">
     <div class="nexmoe-avatar mdui-ripple">
         <a href="../../../index.html" title="冻葱Tewi">
@@ -143,7 +143,7 @@
 </div>
 
 
-	<script async src="../../../js/search.js?v=1719735466227"></script>
+	<script async src="../../../js/search.js?v=1722953146893"></script>
 
 
 
@@ -382,8 +382,8 @@
             <a class="nexmoefont icon-appstore-fill -link" href="../../../categories/%E6%97%A7%E7%AB%99%E8%BF%81%E7%A7%BB/">旧站迁移</a>
         
         
-    <a><i class="nexmoefont icon-areachart"></i>约13k字</a>
-    <a><i class="nexmoefont icon-time-circle-fill"></i>预计需要48 分钟</a>
+    <a><i class="nexmoefont icon-areachart"></i>约14k字</a>
+    <a><i class="nexmoefont icon-time-circle-fill"></i>预计需要50 分钟</a>
 
     </div>
     
@@ -428,18 +428,18 @@
 
 <p><strong>注意：</strong>这仅限于Ubuntu 18.04，即bionic版本。如果你<code>lsb_release -c</code>后显示的结果不是bionic，那么请将以上数据源地址中所有的<code>bionic</code>替换成你的版本代号。</p>
 <p>修改保存之后，更新配置并且升级（可能会占用较长的时间，可以起身转一转）：</p>
-<figure class="highlight sh"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs sh">sudo apt update<br>sudo apt upgrade<br></code></pre></td></tr></table></figure>
+<figure class="highlight sh"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs sh"><span class="hljs-built_in">sudo</span> apt update<br><span class="hljs-built_in">sudo</span> apt upgrade<br></code></pre></td></tr></table></figure>
 
 <p>到此，WSL已经初步配置完成啦。</p>
 <h2 id="WSL的本地化"><a href="#WSL的本地化" class="headerlink" title="WSL的本地化"></a>WSL的本地化</h2><p>虽说日常使用用英文也没什么大碍，但是既然有中文本地化，就没理由补折腾一番啦。</p>
 <p>首先安装中文本地化包：</p>
-<figure class="highlight sh"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs sh">sudo apt install language-pack-zh-hans<br></code></pre></td></tr></table></figure>
+<figure class="highlight sh"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs sh"><span class="hljs-built_in">sudo</span> apt install language-pack-zh-hans<br></code></pre></td></tr></table></figure>
 
 <p>然后更新本地化设置：</p>
-<figure class="highlight sh"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs sh">sudo update-locale LANG=zh_CN.UTF-8<br></code></pre></td></tr></table></figure>
+<figure class="highlight sh"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs sh"><span class="hljs-built_in">sudo</span> update-locale LANG=zh_CN.UTF-8<br></code></pre></td></tr></table></figure>
 
 <p>接着安装Noto CJK包来防止中文被显示为日文字形，导致的全员小方框乱码故障：</p>
-<figure class="highlight sh"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs sh">sudo apt install fonts-noto-cjk<br></code></pre></td></tr></table></figure>
+<figure class="highlight sh"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs sh"><span class="hljs-built_in">sudo</span> apt install fonts-noto-cjk<br></code></pre></td></tr></table></figure>
 
 <p>重启WSL，现在已经是中文本地化模式了。</p>
 <p><img src="https://s2.ax1x.com/2019/04/07/AfHgUA.png"></p>
@@ -452,14 +452,14 @@
 <p>这样就把默认的显示配置完成了。</p>
 <h3 id="安装Ubuntu-Desktop-可选"><a href="#安装Ubuntu-Desktop-可选" class="headerlink" title="安装Ubuntu Desktop (可选)"></a>安装Ubuntu Desktop (可选)</h3><p>Ubuntu-Desktop不是Ubuntu桌面，只是安装了Ubuntu GUI默认安装的图形工具，比如gedit之类。比较大，有2G那么大，而且我的Windows上也不怎么需要Ubuntu Desktop，所以我就没安装。</p>
 <p>直接键入：</p>
-<figure class="highlight sh"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs sh">sudo apt install ubuntu-desktop<br></code></pre></td></tr></table></figure>
+<figure class="highlight sh"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs sh"><span class="hljs-built_in">sudo</span> apt install ubuntu-desktop<br></code></pre></td></tr></table></figure>
 
 <p>就完事了。有2G大，估计会持续很长时间。</p>
 <h3 id="安装Gnome-terminal"><a href="#安装Gnome-terminal" class="headerlink" title="安装Gnome-terminal"></a>安装Gnome-terminal</h3><p>如果你安装了<code>ubunutu-desktop</code>可能可以跳过这一步，因为<code>ubuntu-desktop</code>包中应该已经安装好了<code>Gnome-ternimal</code>的依赖项。当然打一行指令也没啥。</p>
-<figure class="highlight sh"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs sh">sudo apt install dbus-x11<br></code></pre></td></tr></table></figure>
+<figure class="highlight sh"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs sh"><span class="hljs-built_in">sudo</span> apt install dbus-x11<br></code></pre></td></tr></table></figure>
 
 <p>然后就是安装了，没啥好说的。</p>
-<figure class="highlight sh"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs sh">sudo apt install gnome-terminal<br></code></pre></td></tr></table></figure>
+<figure class="highlight sh"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs sh"><span class="hljs-built_in">sudo</span> apt install gnome-terminal<br></code></pre></td></tr></table></figure>
 
 <p>好了，安装完成。保持后台Xming服务开启，终端输入:</p>
 <figure class="highlight sh"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs sh">gnome-terminal<br></code></pre></td></tr></table></figure>
@@ -468,15 +468,15 @@
 <p><img src="https://s2.ax1x.com/2019/04/07/AfHyHH.png"></p>
 <h3 id="安装Geany"><a href="#安装Geany" class="headerlink" title="安装Geany"></a>安装Geany</h3><p>Geany是ICPC World Final 2019上，华沙大学队伍使用的编辑器。轻量，五脏俱全，支持C, C++, Java, Python以及各种前端语言的语法高亮和自动补全。<del>我寻思这个支持的语言列表，难道是面向ACM开发的嘛……</del>众所周知，Code::Blocks在Ubuntu上经常闪退，而赛场上的vim肯定没什么时间深度配置所以也不太好用，CLion要收费，所以这个Geany安装之后玩了一会儿就爱上了。</p>
 <p>添加ppa，更新包列表，安装一气呵成：</p>
-<figure class="highlight sh"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><code class="hljs sh">sudo add-apt-repository ppa:geany-dev/ppa<br>sudo apt-get update<br>sudo apt-get install geany<br></code></pre></td></tr></table></figure>
+<figure class="highlight sh"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><code class="hljs sh"><span class="hljs-built_in">sudo</span> add-apt-repository ppa:geany-dev/ppa<br><span class="hljs-built_in">sudo</span> apt-get update<br><span class="hljs-built_in">sudo</span> apt-get install geany<br></code></pre></td></tr></table></figure>
 
 <p>然后在终端键入<code>geany</code>，不出意外的话就会弹出来啦！</p>
 <p><img src="https://s2.ax1x.com/2019/04/07/AfHcEd.png"></p>
 <p>在首选项里配置一番就开始玩吧！当然，别忘了安装相关语言的环境：</p>
-<figure class="highlight sh"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br></pre></td><td class="code"><pre><code class="hljs sh"><span class="hljs-comment"># C/C++</span><br>sudo apt install build-essential<br><span class="hljs-comment"># JDK (Unconfirmed)</span><br>sudo apt install default-jre<br>sudo apt install default-jdk<br><span class="hljs-built_in">export</span> JAVA_HOME=/usr/lib/jvm/java-11-openjdk-amd64/bin/<br><span class="hljs-built_in">export</span> JRE_HOME=<span class="hljs-variable">$JAVA_HOME</span>/jre<br><span class="hljs-built_in">source</span> /etc/environment<br><span class="hljs-comment"># Python</span><br>sudo apt install python3<br></code></pre></td></tr></table></figure>
+<figure class="highlight sh"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br></pre></td><td class="code"><pre><code class="hljs sh"><span class="hljs-comment"># C/C++</span><br><span class="hljs-built_in">sudo</span> apt install build-essential<br><span class="hljs-comment"># JDK (Unconfirmed)</span><br><span class="hljs-built_in">sudo</span> apt install default-jre<br><span class="hljs-built_in">sudo</span> apt install default-jdk<br><span class="hljs-built_in">export</span> JAVA_HOME=/usr/lib/jvm/java-11-openjdk-amd64/bin/<br><span class="hljs-built_in">export</span> JRE_HOME=<span class="hljs-variable">$JAVA_HOME</span>/jre<br><span class="hljs-built_in">source</span> /etc/environment<br><span class="hljs-comment"># Python</span><br><span class="hljs-built_in">sudo</span> apt install python3<br></code></pre></td></tr></table></figure>
 
 <p><strong>注意：</strong>Java的环境变量地址请根据自己的安装路径调整，查看安装地址可以使用：</p>
-<figure class="highlight sh"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs sh">sudo update-alternatives --config java<br></code></pre></td></tr></table></figure>
+<figure class="highlight sh"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs sh"><span class="hljs-built_in">sudo</span> update-alternatives --config java<br></code></pre></td></tr></table></figure>
 
 <h2 id="WSL要知道的"><a href="#WSL要知道的" class="headerlink" title="WSL要知道的"></a>WSL要知道的</h2><ul>
 <li><p>Windows和WSL中的路径对应关系：</p>
@@ -534,7 +534,7 @@
 </div>
   
   
-    <script async src="../../../js/copy-codeblock.js?v=1719735466137"></script>
+    <script async src="../../../js/copy-codeblock.js?v=1722953146788"></script>
   
 
   

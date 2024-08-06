@@ -4,7 +4,7 @@
   <url>
     <loc>https://blog.dctewi.com/friends</loc>
     
-    <lastmod>2024-06-30</lastmod>
+    <lastmod>2024-08-06</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -56,15 +56,6 @@
   </url>
   
   <url>
-    <loc>https://blog.dctewi.com/2019/03/unity-mvc/</loc>
-    
-    <lastmod>2024-01-27</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.dctewi.com/2019/01/theme-changing-note/</loc>
     
     <lastmod>2024-01-27</lastmod>
@@ -74,7 +65,7 @@
   </url>
   
   <url>
-    <loc>https://blog.dctewi.com/2020/02/unity-new-input-system/</loc>
+    <loc>https://blog.dctewi.com/2019/03/unity-mvc/</loc>
     
     <lastmod>2024-01-27</lastmod>
     
@@ -110,7 +101,7 @@
   </url>
   
   <url>
-    <loc>https://blog.dctewi.com/2019/04/wsl-setup/</loc>
+    <loc>https://blog.dctewi.com/2020/02/unity-new-input-system/</loc>
     
     <lastmod>2024-01-27</lastmod>
     
@@ -119,7 +110,7 @@
   </url>
   
   <url>
-    <loc>https://blog.dctewi.com/2019/02/segment-tree-base/</loc>
+    <loc>https://blog.dctewi.com/2019/04/wsl-setup/</loc>
     
     <lastmod>2024-01-27</lastmod>
     
@@ -137,16 +128,7 @@
   </url>
   
   <url>
-    <loc>https://blog.dctewi.com/2019/08/gogs/</loc>
-    
-    <lastmod>2024-01-27</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.dctewi.com/2020/03/gridea-enchant/</loc>
+    <loc>https://blog.dctewi.com/2019/02/segment-tree-base/</loc>
     
     <lastmod>2024-01-27</lastmod>
     
@@ -164,7 +146,7 @@
   </url>
   
   <url>
-    <loc>https://blog.dctewi.com/2019/02/kmp/</loc>
+    <loc>https://blog.dctewi.com/2019/08/gogs/</loc>
     
     <lastmod>2024-01-27</lastmod>
     
@@ -182,6 +164,15 @@
   </url>
   
   <url>
+    <loc>https://blog.dctewi.com/2020/03/gridea-enchant/</loc>
+    
+    <lastmod>2024-01-27</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.dctewi.com/2019/02/number-theory-base/</loc>
     
     <lastmod>2024-01-27</lastmod>
@@ -191,7 +182,7 @@
   </url>
   
   <url>
-    <loc>https://blog.dctewi.com/2022/03/blog-reboot/</loc>
+    <loc>https://blog.dctewi.com/2019/02/kmp/</loc>
     
     <lastmod>2024-01-27</lastmod>
     
@@ -209,7 +200,7 @@
   </url>
   
   <url>
-    <loc>https://blog.dctewi.com/2020/03/cycle-detection/</loc>
+    <loc>https://blog.dctewi.com/2020/03/cantor-basic/</loc>
     
     <lastmod>2024-01-27</lastmod>
     
@@ -218,7 +209,16 @@
   </url>
   
   <url>
-    <loc>https://blog.dctewi.com/2020/03/cantor-basic/</loc>
+    <loc>https://blog.dctewi.com/2022/03/blog-reboot/</loc>
+    
+    <lastmod>2024-01-27</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.dctewi.com/2020/03/cycle-detection/</loc>
     
     <lastmod>2024-01-27</lastmod>
     
@@ -254,7 +254,7 @@
   </url>
   
   <url>
-    <loc>https://blog.dctewi.com/2020/03/a-star/</loc>
+    <loc>https://blog.dctewi.com/2020/12/blazor-webassembly-hosted-with-identity/</loc>
     
     <lastmod>2024-01-27</lastmod>
     
@@ -263,7 +263,7 @@
   </url>
   
   <url>
-    <loc>https://blog.dctewi.com/2020/12/blazor-webassembly-hosted-with-identity/</loc>
+    <loc>https://blog.dctewi.com/2020/03/a-star/</loc>
     
     <lastmod>2024-01-27</lastmod>
     
@@ -274,7 +274,7 @@
 
   <url>
     <loc>https://blog.dctewi.com/</loc>
-    <lastmod>2024-06-30</lastmod>
+    <lastmod>2024-08-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
