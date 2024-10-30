@@ -150,11 +150,11 @@ date: 2024-01-26 01:35:04
         "link": "https://blog.hicosor.top/",
         "img": "http://blog.hicosor.top/favicon.ico",
         "title": "365云栈"
-    }
-        {
+    },
+    {
         "description": "所有奇迹的始发点",
-        "link": "https://kfdzcoffee.cn",
-        "img": "https://kfdzcoffee.cn/upload/mmexport1715001096100.png",
+        "link": "https://blog.kfdzcoffee.cn",
+        "img": "https://image.kfdzcoffee.cn/i/1/avatar.png",
         "title": "咖啡豆子coffee的小站"
     }
 ]
